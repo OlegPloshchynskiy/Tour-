@@ -1,0 +1,12 @@
+@font-face{
+    font-family: "inter";
+    src: url(Inter/static/Inter-Regular.ttf);
+}
+@font-face{
+    font-family: "Playfair Display";
+    src: url(Playfair_Display/static/PlayfairDisplay-Regular.ttf);
+}
+@font-face{
+    font-family: "Mulish";
+    src: url(Mulish/static/Mulish-Regular.ttf);
+}
